@@ -39,6 +39,11 @@ Dataset's attributes informations:
     DFA - Signal fractal scaling exponent
     spread1,spread2,PPE - Three nonlinear measures of fundamental frequency variation 
 
+Project Idea: 
+
+The model can be used to differentiate healthy people from people having Parkinson’s disease.
+The algorithm that is useful for this purpose is XGboost which stands for extreme gradient boosting, it is based on decision trees.
+
 Team members of the project:
     1. Nikola Micic
 
