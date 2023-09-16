@@ -46,20 +46,20 @@ The algorithm that is useful for this purpose is XGboost which stands for extrem
 
 Due to the size of the dataset, I decided to build multiple models and compare their results.
 Models that are used:
-    1. Logistic regression\n
-    2. XGBoost\n
-    3. KNearestNeighbors\n
-    4. ensamble BaggingClassifier (KNearestNeighbors)\n
-    5. DecisionTreeClassifier\n
+    1. Logistic regression <br />
+    2. XGBoost <br />
+    3. KNearestNeighbors <br />
+    4. ensamble BaggingClassifier (KNearestNeighbors) <br />
+    5. DecisionTreeClassifier <br />
 
 Main jupyter notebooks:
-    01_basic_dataset_analysis.ipynb\n
-    02_data_visualization.ipynb\n
-    03_ligistic_regression.ipynb\n
-    06_xgboost_hyperparameter_tuning.ipynb\n
-    07_k_nearest_neighbors.ipynb\n
-    08_ensamble_k_nearest_neighbors.ipynb\n
-    09_decision_trees_hyperparameter.ipynb\n
+    01_basic_dataset_analysis.ipynb <br />
+    02_data_visualization.ipynb <br />
+    03_ligistic_regression.ipynb <br />
+    06_xgboost_hyperparameter_tuning.ipynb <br />
+    07_k_nearest_neighbors.ipynb <br />
+    08_ensamble_k_nearest_neighbors.ipynb <br />
+    09_decision_trees_hyperparameter.ipynb <br />
 
 Rest jupyter notebooks were used for preparing, testing and creating various versions of models.
 
