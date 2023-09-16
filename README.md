@@ -57,6 +57,6 @@ Jupyter notebook scripts are numbered for viewing order.
 Team members of the project:
     1. Nikola Micic
 
-Used literature:
-    1. https://www.nia.nih.gov/health/parkinsons-disease
-    2. https://ieeexplore.ieee.org/document/4636708
+Used literature:<br />
+&emsp;1. https://www.nia.nih.gov/health/parkinsons-disease<br />
+&emsp;2. https://ieeexplore.ieee.org/document/4636708<br />
