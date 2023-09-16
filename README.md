@@ -55,7 +55,7 @@ Models that are used:<br />
 Main jupyter notebooks:<br />
 &emsp;01_basic_dataset_analysis.ipynb <br />
 &emsp;02_data_visualization.ipynb <br />
-&emsp;03_ligistic_regression.ipynb <br />
+&emsp;03_logistic_regression.ipynb <br />
 &emsp;06_xgboost_hyperparameter_tuning.ipynb <br />
 &emsp;07_k_nearest_neighbors.ipynb <br />
 &emsp;08_ensamble_k_nearest_neighbors.ipynb <br />
