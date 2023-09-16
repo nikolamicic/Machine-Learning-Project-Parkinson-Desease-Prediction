@@ -44,6 +44,14 @@ Project Idea:
 The model can be used to differentiate healthy people from people having Parkinson’s disease.
 The algorithm that is useful for this purpose is XGboost which stands for extreme gradient boosting, it is based on decision trees.
 
+Due to the size of the dataset, I decided to build multiple models and compare their results.
+Models that are used:
+    1. Logistic regression
+    2. XGBoost
+    3. KNearestNeighbors
+    4. ensamble BaggingClassifier (KNearestNeighbors)
+    5. DecisionTreeClassifier
+
 Team members of the project:
     1. Nikola Micic
 
