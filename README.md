@@ -52,6 +52,17 @@ Models that are used:
     4. ensamble BaggingClassifier (KNearestNeighbors)
     5. DecisionTreeClassifier
 
+Main jupyter notebooks:
+    01_basic_dataset_analysis.ipynb
+    02_data_visualization.ipynb
+    03_ligistic_regression.ipynb
+    06_xgboost_hyperparameter_tuning.ipynb
+    07_k_nearest_neighbors.ipynb
+    08_ensamble_k_nearest_neighbors.ipynb
+    09_decision_trees_hyperparameter.ipynb
+
+Rest jupyter notebooks were used for preparing, testing and creating various versions of models.
+
 Team members of the project:
     1. Nikola Micic
 
