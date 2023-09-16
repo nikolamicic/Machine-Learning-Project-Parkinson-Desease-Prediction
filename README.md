@@ -52,16 +52,7 @@ Models that are used:<br />
 &emsp;4. ensamble BaggingClassifier (KNearestNeighbors) <br />
 &emsp;5. DecisionTreeClassifier <br />
 
-Main jupyter notebooks:<br />
-&emsp;01_basic_dataset_analysis.ipynb <br />
-&emsp;02_data_visualization.ipynb <br />
-&emsp;03_logistic_regression.ipynb <br />
-&emsp;06_xgboost_hyperparameter_tuning.ipynb <br />
-&emsp;07_k_nearest_neighbors.ipynb <br />
-&emsp;08_ensamble_k_nearest_neighbors.ipynb <br />
-&emsp;09_decision_trees_hyperparameter.ipynb <br />
-
-Rest jupyter notebooks were used for preparing, testing and creating various versions of models.
+Jupyter notebook scripts are numbered for viewing order.
 
 Team members of the project:
     1. Nikola Micic
