@@ -53,6 +53,11 @@ Models that are used:<br />
 &emsp;5. DecisionTreeClassifier <br />
 
 Jupyter notebook scripts are numbered for viewing order.
+<br />
+Instalacija svih biblioteka korišćenih u skriptama se može izvršiti pozivom naredne komande:<br />
+
+&emsp;pip/pip3 install [naziv_biblioteke]<br />
+
 
 Team members of the project:
     1. Nikola Micic
