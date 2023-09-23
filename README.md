@@ -1,7 +1,7 @@
-# Machine-Learning-Project-Parkinson-Desease-Prediction
-Repository for Machine Learning Project (Parkinson Desease Prediction) within Machine Learning course in the master's studies of the Faculty of Mathematics, Belgrade
+# Machine-Learning-Project-Parkinson-Disease-Prediction
+Repository for Machine Learning Project (Parkinson Disease Prediction) within Machine Learning course in the master's studies of the Faculty of Mathematics, Belgrade
 
-Theme of the project is Parkinson Desease Prediction.
+Theme of the project is Parkinson Dusease Prediction.
 
 What is Parkinson and what causes Parkinson's disease? 
 - Parkinson’s disease is a brain disorder that causes unintended or uncontrollable movements, such as shaking, stiffness, and difficulty with balance and coordination.
